@@ -1,0 +1,134 @@
+---
+settings:
+  icons: true
+firstname: Cary
+familyname: Lee
+linkedin_id: carylee
+github_id: carylee
+bio_data:
+  email: carylee@gmail.com
+  phone: "910-227-9533"
+  #  stars:
+  #  - Ruby
+  #  - Python
+  #  - Git
+  #  - Cartooning
+  summary:
+    points:
+    - Flexible, creative full-stack developer who loves learning new technologies for work and fun
+    - Deeply passionate team player who thrives with technical challenges in a fast-paced environment
+    - Actively seeks to improve effeciency, increase agility, and adopt modern best practices
+  skills:
+    details:
+    - type: Languages
+      items:
+      - Clojure
+      - Ruby
+      - Javascript
+      - Python
+      - PHP
+      - C++
+      - Powershell
+    - type: Frameworks
+      items:
+      - Sinatra
+      - Rails
+      - Nancy
+      - Entity Framework
+      - Compojure
+    - type: Databases
+      items:
+      - MySQL
+      - SQLite
+      - MongoDB
+      - Microsoft SQL Server
+  experience:
+    items:
+    - title: Software Development Engineer in Test
+      organisation: Microsoft
+      location: Redmond, WA
+      from: Aug. 2012
+      to: Jul. 2014
+      details:
+        - Developed a web app, PhotoStore, for storing/querying 100,000+ photos by EXIF data and analyzed features ◦ Developed custom analytics reporting for PhotoStore using Clojure and Incanter
+        - Developed games to crowdsource feedback on algorithm quality (XAML/C++)
+        - Wrote suite of Powershell scripts to automatically create and manage VMs of daily Windows builds
+        - Led team transition from waterfall to agile by designing a new process and format for test planning ◦ Developed test automation and infrastructure for the Windows 8.1 Photos app
+        - Recruited for Microsoft at Northwestern and Out for Undergrad Technology Conference
+      technology_used:
+        tools:
+        - C#
+        - C++11/CX
+        - XAML
+        - WinDbg
+        - Nancy
+        - Powershell
+        - Clojure
+    - title: Undergraduate Fellow
+      organisation: Knight News Innovation Lab
+      location: Evanston, IL
+      from: Dec. 2011
+      to: Jun. 2012
+      details:
+      - Collaborated with journalists to develop single-event-centric news web applications
+      - Developed news aggregation software in Ruby using the Bing News API and Bing Web API to automatically find and mine content and metadata for news articles about a given subject
+      - Developed frontend visualizations of trending twitter topics over time and news articles by location
+      technology_used:
+        tools:
+        - Ruby on Rails
+        - HTML5
+        - CSS
+        - SASS
+        - Javascript
+        - jQuery
+        - SQLite
+    - title: SDET Intern
+      organisation: Microsoft
+      location: Redmond, WA
+      from: Sep. 2011
+      to: Jun. 2011
+      details:
+      - Developed test automation for the AutoCollage feature of Windows Live Photo Gallery
+      - Tested and debugged Win32 product code (Windows Live Photo Gallery)
+      - Automated tools to test WIC integration of Microsoft Camera Codec Pack
+    - title: Lead Developer
+      organisation: Northwestern UX Sudio
+      location: Evanston, IL
+      from: Mar. 2011
+      to: Oct. 2011
+      details:
+      - Recruited, interviewed, hired, and led a team of 5 student mobile and web developers
+      - Led the development of a web and cross-platform mobile app to display shuttle bus schedule data ◦ Designed and developed the backend API to serve shuttle data to app
+      technology_used:
+        tools:
+        - PHP
+        - SQLite
+        - jQuery Mobile
+        - HTML
+        - CSS
+        - Javascript
+    - title: Technical Intern
+      organisation: Roundarch (now Isobar)
+      location: Chicago, IL
+      from: Jul. 2010
+      to: Sep. 2010
+      details:
+      - "Frontend developer for OneRiot AdBubbles HTML5 demo for Microsoft's IE9 beta launch"
+      technology_used:
+        tools:
+        - Javascript
+        - jQuery
+        - HTML5
+        - CSS3
+  education:
+    show_gpa: false
+    schools:
+    - degree: Bachelor of Science
+      major: Computer Science
+      institution: Northwestern University
+      graduation_year: 2012
+    - degree: Bachelor of Music
+      major: Vocal Performance
+      institution: Northwestern University
+      graduation_year: 2012
+

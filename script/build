@@ -1,0 +1,2 @@
+#!/bin/bash
+json_resume convert --out=tex_pdf --template=templates/default_tex.mustache carylee_resume.yaml
